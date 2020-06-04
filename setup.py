@@ -3,9 +3,7 @@
 from setuptools import setup, find_packages
 
 install_requires = [
-    'numpy>=0.14',
-    'torch>=0.4',
-    'scipy>=1.2.1'
+    'numpy>=0.14'
 ]
 
 setup(name="hessian_eigenthings",
